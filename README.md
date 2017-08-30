@@ -1,6 +1,6 @@
 ###**所需命令：**
 ####**姓名邮箱设置：**
-`git config –-global user.name / email xxx` //g是小写，不知道为什么发表后自动大写。。。
+`git config –-global user.name / email xxx` 
 `git config –-global color.ui auto`
 查看使用 `cat ~/.gitconfig`
 ####**创建ssh** 
